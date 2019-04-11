@@ -15,22 +15,22 @@ public class Runner {
         emailAssigner.TaskAssigner(name, 10);
         phoneAssigner.TaskAssigner(name, 5);
         personAssigner.TaskAssigner(name, 3);
-        System.out.println(name);
+        System.out.printf("%s%n%n", name);
 
         TaskPerformer performTaskInPerson = new PerformTaskInPerson();
         TaskPerformer performOfficeTask = new PerformTaskAtOffice();
-        TaskPerformer performDeligation = new PerformDeligationTask();
+        TaskPerformer performDelegation = new PerformDelegationTasks();
 
         Task task = new Task("Filing", 20, name, assigner);
 
-        System.out.println("Doing InPerson");
+        System.out.println("Doing  InPerson: ");
         performTaskInPerson.performTask(task, name);
 
-        System.out.println("Doing OfficeTask");
+        System.out.println("Doing   OfficeTask:");
         performOfficeTask.performTask(task, name);
 
-        System.out.println("Doing Deligation");
-        performDeligation.performTask(task, name);
+        System.out.printf("%nDoing  Delegation:%n");
+        performDelegation.performTask(task, name);
 
 
     }

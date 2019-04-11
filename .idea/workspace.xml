@@ -8,11 +8,20 @@
       <change afterPath="$PROJECT_DIR$/../Lab 11/src/edu/dmacc/codedsm/Vehicle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab 9/a_text_file.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticeHomework9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskAtOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformDelegationTasks.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../rolo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TaskerTwo/edu/dmacccodedsm/hw16/InPersonTaskAssigner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TaskerTwo/edu/dmacccodedsm/hw16/InPersonTaskAssigner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TaskerTwo/edu/dmacccodedsm/hw16/PerformDeligationTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TaskerTwo/edu/dmacccodedsm/hw16/PerformTaskInPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TaskerTwo/edu/dmacccodedsm/hw16/PerformTaskInPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TaskerTwo/edu/dmacccodedsm/hw16/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TaskerTwo/edu/dmacccodedsm/hw16/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TaskerTwo/edu/dmacccodedsm/hw16/TaskPerformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TaskerTwo/edu/dmacccodedsm/hw16/TaskPerformer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/InPersonTaskAssigner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/InPersonTaskAssigner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformDeligationTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskAtOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskAtOffice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskInPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskInPerson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/TaskPerformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/TaskPerformer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,16 +56,21 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/InPersonTaskAssigner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformDelegationTasks.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret lean-forward="true" />
             </state>
@@ -64,13 +78,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/EmailTaskAssigner.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/TaskPerformer.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -102,16 +115,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformDeligationTask.java">
+        <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskInPerson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="153">
+              <caret line="9" column="77" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
+              <folding>
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskInPerson.java">
+        <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskAtOffice.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -135,18 +152,19 @@
         <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/User.java" />
         <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/TaskAssigner.java" />
         <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/EmailTaskAssigner.java" />
-        <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/InPersonTaskAssigner.java" />
         <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/Task.java" />
-        <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskAtOffice.java" />
-        <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/TaskPerformer.java" />
-        <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformDeligationTask.java" />
-        <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskInPerson.java" />
         <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PhoneTaskAssigner.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/InPersonTaskAssigner.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/TaskPerformer.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskInPerson.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskAtOffice.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformDeligationTask.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformDelegationTasks.java" />
         <option value="$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/Runner.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="735" />
     <option name="y" value="55" />
     <option name="width" value="1160" />
@@ -187,7 +205,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554933888021" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554942657895" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -233,12 +251,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554695842536</updated>
-      <workItem from="1554695845377" duration="25222000" />
+      <workItem from="1554695845377" duration="28034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25222000" />
+    <option name="totallyTimeSpent" value="28034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -281,7 +299,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.24966443" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -291,7 +309,7 @@
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -319,31 +337,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskAtOffice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformDeligationTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/EmailTaskAssigner.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/InPersonTaskAssigner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskInPerson.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PhoneTaskAssigner.java">
@@ -376,10 +370,45 @@
     <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/TaskAssigner.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/TaskPerformer.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/InPersonTaskAssigner.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/User.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskInPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="77" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
+          <folding>
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformTaskAtOffice.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/TaskPerformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformDeligationTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/PerformDelegationTasks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
@@ -388,8 +417,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/dmacccodedsm/hw16/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="389">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
         </state>
       </provider>
     </entry>
